@@ -1,0 +1,610 @@
+--2024-06-16 15:40:58--  http://library.readscheme.org/
+Resolving library.readscheme.org (library.readscheme.org)... 212.110.186.28
+Connecting to library.readscheme.org (library.readscheme.org)|212.110.186.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3718 (3.6K) [text/html]
+Saving to: ‘library.readscheme.org/index.html’
+
+     0K ...                                                   100% 80.6M=0s
+
+2024-06-16 15:40:58 (80.6 MB/s) - ‘library.readscheme.org/index.html’ saved [3718/3718]
+
+Loading robots.txt; please ignore errors.
+--2024-06-16 15:40:58--  http://library.readscheme.org/robots.txt
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2024-06-16 15:40:58 ERROR 404: Not Found.
+
+--2024-06-16 15:40:58--  http://library.readscheme.org/basic.css
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 691 [text/css]
+Saving to: ‘library.readscheme.org/basic.css’
+
+     0K                                                       100% 12.9M=0s
+
+2024-06-16 15:40:58 (12.9 MB/s) - ‘library.readscheme.org/basic.css’ saved [691/691]
+
+--2024-06-16 15:40:58--  http://library.readscheme.org/imgs/nav-logo.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1886 (1.8K) [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav-logo.gif’
+
+     0K .                                                     100% 46.1M=0s
+
+2024-06-16 15:40:58 (46.1 MB/s) - ‘library.readscheme.org/imgs/nav-logo.gif’ saved [1886/1886]
+
+--2024-06-16 15:40:58--  http://library.readscheme.org/imgs/dot_clear.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/dot_clear.gif’
+
+     0K                                                       100% 1.21M=0s
+
+2024-06-16 15:40:58 (1.21 MB/s) - ‘library.readscheme.org/imgs/dot_clear.gif’ saved [42/42]
+
+--2024-06-16 15:40:58--  http://library.readscheme.org/whats_new.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 107749 (105K) [text/html]
+Saving to: ‘library.readscheme.org/whats_new.html’
+
+     0K .......... .......... .......... .......... .......... 47%  389K 0s
+    50K .......... .......... .......... .......... .......... 95%  347K 0s
+   100K .....                                                 100%  104K=0.3s
+
+2024-06-16 15:40:59 (386 KB/s) - ‘library.readscheme.org/whats_new.html’ saved [107749/107749]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page1.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7249 (7.1K) [text/html]
+Saving to: ‘library.readscheme.org/page1.html’
+
+     0K .......                                               100%  141M=0s
+
+2024-06-16 15:40:59 (141 MB/s) - ‘library.readscheme.org/page1.html’ saved [7249/7249]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page2.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24017 (23K) [text/html]
+Saving to: ‘library.readscheme.org/page2.html’
+
+     0K .......... .......... ...                             100%  577K=0.04s
+
+2024-06-16 15:40:59 (577 KB/s) - ‘library.readscheme.org/page2.html’ saved [24017/24017]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page3.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15139 (15K) [text/html]
+Saving to: ‘library.readscheme.org/page3.html’
+
+     0K .......... ....                                       100% 11.7M=0.001s
+
+2024-06-16 15:40:59 (11.7 MB/s) - ‘library.readscheme.org/page3.html’ saved [15139/15139]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page4.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17587 (17K) [text/html]
+Saving to: ‘library.readscheme.org/page4.html’
+
+     0K .......... .......                                    100% 2.13M=0.008s
+
+2024-06-16 15:40:59 (2.13 MB/s) - ‘library.readscheme.org/page4.html’ saved [17587/17587]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page5.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11982 (12K) [text/html]
+Saving to: ‘library.readscheme.org/page5.html’
+
+     0K .......... .                                          100% 11.1M=0.001s
+
+2024-06-16 15:40:59 (11.1 MB/s) - ‘library.readscheme.org/page5.html’ saved [11982/11982]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page6.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25405 (25K) [text/html]
+Saving to: ‘library.readscheme.org/page6.html’
+
+     0K .......... .......... ....                            100%  572K=0.04s
+
+2024-06-16 15:40:59 (572 KB/s) - ‘library.readscheme.org/page6.html’ saved [25405/25405]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/pagexml.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19821 (19K) [text/html]
+Saving to: ‘library.readscheme.org/pagexml.html’
+
+     0K .......... .........                                  100% 3.28M=0.006s
+
+2024-06-16 15:40:59 (3.28 MB/s) - ‘library.readscheme.org/pagexml.html’ saved [19821/19821]
+
+--2024-06-16 15:40:59--  http://library.readscheme.org/page7.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 47859 (47K) [text/html]
+Saving to: ‘library.readscheme.org/page7.html’
+
+     0K .......... .......... .......... .......... ......    100%  540K=0.09s
+
+2024-06-16 15:41:00 (540 KB/s) - ‘library.readscheme.org/page7.html’ saved [47859/47859]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/page8.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63792 (62K) [text/html]
+Saving to: ‘library.readscheme.org/page8.html’
+
+     0K .......... .......... .......... .......... .......... 80%  480K 0s
+    50K .......... ..                                         100% 6.15M=0.1s
+
+2024-06-16 15:41:00 (587 KB/s) - ‘library.readscheme.org/page8.html’ saved [63792/63792]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/page9.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31743 (31K) [text/html]
+Saving to: ‘library.readscheme.org/page9.html’
+
+     0K .......... .......... ..........                      100%  627K=0.05s
+
+2024-06-16 15:41:00 (627 KB/s) - ‘library.readscheme.org/page9.html’ saved [31743/31743]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/page10.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 58426 (57K) [text/html]
+Saving to: ‘library.readscheme.org/page10.html’
+
+     0K .......... .......... .......... .......... .......... 87%  597K 0s
+    50K .......                                               100% 1.01M=0.09s
+
+2024-06-16 15:41:00 (630 KB/s) - ‘library.readscheme.org/page10.html’ saved [58426/58426]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/page11.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10304 (10K) [text/html]
+Saving to: ‘library.readscheme.org/page11.html’
+
+     0K ..........                                            100% 12.3M=0.001s
+
+2024-06-16 15:41:00 (12.3 MB/s) - ‘library.readscheme.org/page11.html’ saved [10304/10304]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/standards.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7520 (7.3K) [text/html]
+Saving to: ‘library.readscheme.org/standards.html’
+
+     0K .......                                               100%  133M=0s
+
+2024-06-16 15:41:00 (133 MB/s) - ‘library.readscheme.org/standards.html’ saved [7520/7520]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2000.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7743 (7.6K) [text/html]
+Saving to: ‘library.readscheme.org/sw2000.html’
+
+     0K .......                                               100% 77.7M=0s
+
+2024-06-16 15:41:00 (77.7 MB/s) - ‘library.readscheme.org/sw2000.html’ saved [7743/7743]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2001.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7139 (7.0K) [text/html]
+Saving to: ‘library.readscheme.org/sw2001.html’
+
+     0K ......                                                100% 98.7M=0s
+
+2024-06-16 15:41:00 (98.7 MB/s) - ‘library.readscheme.org/sw2001.html’ saved [7139/7139]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2002.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7406 (7.2K) [text/html]
+Saving to: ‘library.readscheme.org/sw2002.html’
+
+     0K .......                                               100% 85.1M=0s
+
+2024-06-16 15:41:00 (85.1 MB/s) - ‘library.readscheme.org/sw2002.html’ saved [7406/7406]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2003.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6741 (6.6K) [text/html]
+Saving to: ‘library.readscheme.org/sw2003.html’
+
+     0K ......                                                100%  105M=0s
+
+2024-06-16 15:41:00 (105 MB/s) - ‘library.readscheme.org/sw2003.html’ saved [6741/6741]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2004.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7337 (7.2K) [text/html]
+Saving to: ‘library.readscheme.org/sw2004.html’
+
+     0K .......                                               100% 89.7M=0s
+
+2024-06-16 15:41:00 (89.7 MB/s) - ‘library.readscheme.org/sw2004.html’ saved [7337/7337]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2005.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7413 (7.2K) [text/html]
+Saving to: ‘library.readscheme.org/sw2005.html’
+
+     0K .......                                               100%  109M=0s
+
+2024-06-16 15:41:00 (109 MB/s) - ‘library.readscheme.org/sw2005.html’ saved [7413/7413]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2006.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8104 (7.9K) [text/html]
+Saving to: ‘library.readscheme.org/sw2006.html’
+
+     0K .......                                               100%  149M=0s
+
+2024-06-16 15:41:00 (149 MB/s) - ‘library.readscheme.org/sw2006.html’ saved [8104/8104]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2007.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7585 (7.4K) [text/html]
+Saving to: ‘library.readscheme.org/sw2007.html’
+
+     0K .......                                               100% 29.4M=0s
+
+2024-06-16 15:41:00 (29.4 MB/s) - ‘library.readscheme.org/sw2007.html’ saved [7585/7585]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2008.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6697 (6.5K) [text/html]
+Saving to: ‘library.readscheme.org/sw2008.html’
+
+     0K ......                                                100% 88.7M=0s
+
+2024-06-16 15:41:00 (88.7 MB/s) - ‘library.readscheme.org/sw2008.html’ saved [6697/6697]
+
+--2024-06-16 15:41:00--  http://library.readscheme.org/sw2009.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8110 (7.9K) [text/html]
+Saving to: ‘library.readscheme.org/sw2009.html’
+
+     0K .......                                               100% 87.9M=0s
+
+2024-06-16 15:41:01 (87.9 MB/s) - ‘library.readscheme.org/sw2009.html’ saved [8110/8110]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/sw2010.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6320 (6.2K) [text/html]
+Saving to: ‘library.readscheme.org/sw2010.html’
+
+     0K ......                                                100% 9.72M=0.001s
+
+2024-06-16 15:41:01 (9.72 MB/s) - ‘library.readscheme.org/sw2010.html’ saved [6320/6320]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/sw2011.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5907 (5.8K) [text/html]
+Saving to: ‘library.readscheme.org/sw2011.html’
+
+     0K .....                                                 100%  125M=0s
+
+2024-06-16 15:41:01 (125 MB/s) - ‘library.readscheme.org/sw2011.html’ saved [5907/5907]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/index.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘library.readscheme.org/index.html’ not modified on server. Omitting download.
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_mainlogo.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2322 (2.3K) [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_mainlogo.gif’
+
+     0K ..                                                    100% 67.1M=0s
+
+2024-06-16 15:41:01 (67.1 MB/s) - ‘library.readscheme.org/imgs/nav_mainlogo.gif’ saved [2322/2322]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_classics.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 945 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_classics.gif’
+
+     0K                                                       100% 39.2M=0s
+
+2024-06-16 15:41:01 (39.2 MB/s) - ‘library.readscheme.org/imgs/nav_classics.gif’ saved [945/945]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_sem.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 492 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_sem.gif’
+
+     0K                                                       100% 23.5M=0s
+
+2024-06-16 15:41:01 (23.5 MB/s) - ‘library.readscheme.org/imgs/nav_sem.gif’ saved [492/492]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_macros.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_macros.gif’
+
+     0K                                                       100% 15.6M=0s
+
+2024-06-16 15:41:01 (15.6 MB/s) - ‘library.readscheme.org/imgs/nav_macros.gif’ saved [441/441]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_objects.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 415 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_objects.gif’
+
+     0K                                                       100% 12.4M=0s
+
+2024-06-16 15:41:01 (12.4 MB/s) - ‘library.readscheme.org/imgs/nav_objects.gif’ saved [415/415]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_modules.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 915 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_modules.gif’
+
+     0K                                                       100% 31.2M=0s
+
+2024-06-16 15:41:01 (31.2 MB/s) - ‘library.readscheme.org/imgs/nav_modules.gif’ saved [915/915]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_cps.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 615 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_cps.gif’
+
+     0K                                                       100% 18.9M=0s
+
+2024-06-16 15:41:01 (18.9 MB/s) - ‘library.readscheme.org/imgs/nav_cps.gif’ saved [615/615]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_xml.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 879 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_xml.gif’
+
+     0K                                                       100% 29.9M=0s
+
+2024-06-16 15:41:01 (29.9 MB/s) - ‘library.readscheme.org/imgs/nav_xml.gif’ saved [879/879]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_appl.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 556 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_appl.gif’
+
+     0K                                                       100% 18.9M=0s
+
+2024-06-16 15:41:01 (18.9 MB/s) - ‘library.readscheme.org/imgs/nav_appl.gif’ saved [556/556]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_impl.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 598 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_impl.gif’
+
+     0K                                                       100% 21.9M=0s
+
+2024-06-16 15:41:01 (21.9 MB/s) - ‘library.readscheme.org/imgs/nav_impl.gif’ saved [598/598]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_conc.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 947 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_conc.gif’
+
+     0K                                                       100% 32.3M=0s
+
+2024-06-16 15:41:01 (32.3 MB/s) - ‘library.readscheme.org/imgs/nav_conc.gif’ saved [947/947]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_pe.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 712 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_pe.gif’
+
+     0K                                                       100% 23.4M=0s
+
+2024-06-16 15:41:01 (23.4 MB/s) - ‘library.readscheme.org/imgs/nav_pe.gif’ saved [712/712]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/nav_reflect.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 495 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_reflect.gif’
+
+     0K                                                       100% 17.5M=0s
+
+2024-06-16 15:41:01 (17.5 MB/s) - ‘library.readscheme.org/imgs/nav_reflect.gif’ saved [495/495]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/imgs/focus_nav_recent.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 738 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_recent.gif’
+
+     0K                                                       100% 33.5M=0s
+
+2024-06-16 15:41:01 (33.5 MB/s) - ‘library.readscheme.org/imgs/focus_nav_recent.gif’ saved [738/738]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/new2001.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 34202 (33K) [text/html]
+Saving to: ‘library.readscheme.org/new2001.html’
+
+     0K .......... .......... .......... ...                  100%  695K=0.05s
+
+2024-06-16 15:41:01 (695 KB/s) - ‘library.readscheme.org/new2001.html’ saved [34202/34202]
+
+--2024-06-16 15:41:01--  http://library.readscheme.org/new2002.html
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66181 (65K) [text/html]
+Saving to: ‘library.readscheme.org/new2002.html’
+
+     0K .......... .......... .......... .......... .......... 77% 1.00M 0s
+    50K .......... ....                                       100%  321K=0.09s
+
+2024-06-16 15:41:02 (685 KB/s) - ‘library.readscheme.org/new2002.html’ saved [66181/66181]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_classics.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 999 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_classics.gif’
+
+     0K                                                       100% 35.3M=0s
+
+2024-06-16 15:41:02 (35.3 MB/s) - ‘library.readscheme.org/imgs/focus_nav_classics.gif’ saved [999/999]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/nav_recent.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 686 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/nav_recent.gif’
+
+     0K                                                       100% 21.8M=0s
+
+2024-06-16 15:41:02 (21.8 MB/s) - ‘library.readscheme.org/imgs/nav_recent.gif’ saved [686/686]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_sem.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_sem.gif’
+
+     0K                                                       100% 18.5M=0s
+
+2024-06-16 15:41:02 (18.5 MB/s) - ‘library.readscheme.org/imgs/focus_nav_sem.gif’ saved [544/544]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_macros.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 490 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_macros.gif’
+
+     0K                                                       100% 14.6M=0s
+
+2024-06-16 15:41:02 (14.6 MB/s) - ‘library.readscheme.org/imgs/focus_nav_macros.gif’ saved [490/490]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_objects.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 464 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_objects.gif’
+
+     0K                                                       100% 2.56M=0s
+
+2024-06-16 15:41:02 (2.56 MB/s) - ‘library.readscheme.org/imgs/focus_nav_objects.gif’ saved [464/464]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_modules.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 970 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_modules.gif’
+
+     0K                                                       100% 51.4M=0s
+
+2024-06-16 15:41:02 (51.4 MB/s) - ‘library.readscheme.org/imgs/focus_nav_modules.gif’ saved [970/970]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_cps.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 679 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_cps.gif’
+
+     0K                                                       100% 20.9M=0s
+
+2024-06-16 15:41:02 (20.9 MB/s) - ‘library.readscheme.org/imgs/focus_nav_cps.gif’ saved [679/679]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_xml.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 937 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_xml.gif’
+
+     0K                                                       100% 33.1M=0s
+
+2024-06-16 15:41:02 (33.1 MB/s) - ‘library.readscheme.org/imgs/focus_nav_xml.gif’ saved [937/937]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_appl.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 601 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_appl.gif’
+
+     0K                                                       100% 33.7M=0s
+
+2024-06-16 15:41:02 (33.7 MB/s) - ‘library.readscheme.org/imgs/focus_nav_appl.gif’ saved [601/601]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_impl.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 649 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_impl.gif’
+
+     0K                                                       100% 22.1M=0s
+
+2024-06-16 15:41:02 (22.1 MB/s) - ‘library.readscheme.org/imgs/focus_nav_impl.gif’ saved [649/649]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_conc.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 992 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_conc.gif’
+
+     0K                                                       100% 43.0M=0s
+
+2024-06-16 15:41:02 (43.0 MB/s) - ‘library.readscheme.org/imgs/focus_nav_conc.gif’ saved [992/992]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_pe.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 769 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_pe.gif’
+
+     0K                                                       100% 38.6M=0s
+
+2024-06-16 15:41:02 (38.6 MB/s) - ‘library.readscheme.org/imgs/focus_nav_pe.gif’ saved [769/769]
+
+--2024-06-16 15:41:02--  http://library.readscheme.org/imgs/focus_nav_reflect.gif
+Reusing existing connection to library.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 538 [image/gif]
+Saving to: ‘library.readscheme.org/imgs/focus_nav_reflect.gif’
+
+     0K                                                       100% 17.1M=0s
+
+2024-06-16 15:41:02 (17.1 MB/s) - ‘library.readscheme.org/imgs/focus_nav_reflect.gif’ saved [538/538]
+
+FINISHED --2024-06-16 15:41:02--
+Total wall clock time: 4.5s
+Downloaded: 59 files, 647K in 0.9s (760 KB/s)
