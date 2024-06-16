@@ -1,0 +1,29 @@
+body {
+font-family: times, times-roman, serif;
+font-size: 12pt;
+background-color: #993300;
+}
+a:link {
+color: #ffff00;
+}
+a:visited {
+color: #ffcc33;
+}
+a:active {
+color: #ffffff;
+}
+.contents {
+font-family: times, times-roman, serif;
+font-size: 12pt;
+color: #ffcc99;
+}
+.dated {
+font-family: times, times-roman, serif;
+font-size: 12pt;
+color: #ffcc99;
+}
+.collophon {
+font-size: 80%;
+font-style: italic;
+text-align: right;
+}

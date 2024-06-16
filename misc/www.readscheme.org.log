@@ -1,0 +1,923 @@
+--2024-06-16 15:40:52--  http://www.readscheme.org/
+Resolving www.readscheme.org (www.readscheme.org)... 212.110.186.28
+Connecting to www.readscheme.org (www.readscheme.org)|212.110.186.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2027 (2.0K) [text/html]
+Saving to: ‘www.readscheme.org/index.html’
+
+     0K .                                                     100% 87.9M=0s
+
+2024-06-16 15:40:52 (87.9 MB/s) - ‘www.readscheme.org/index.html’ saved [2027/2027]
+
+Loading robots.txt; please ignore errors.
+--2024-06-16 15:40:52--  http://www.readscheme.org/robots.txt
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2024-06-16 15:40:52 ERROR 404: Not Found.
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 420 [text/css]
+Saving to: ‘www.readscheme.org/basic.css’
+
+     0K                                                       100% 22.3M=0s
+
+2024-06-16 15:40:52 (22.3 MB/s) - ‘www.readscheme.org/basic.css’ saved [420/420]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/dot_clear.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [image/gif]
+Saving to: ‘www.readscheme.org/dot_clear.gif’
+
+     0K                                                       100% 1.43M=0s
+
+2024-06-16 15:40:52 (1.43 MB/s) - ‘www.readscheme.org/dot_clear.gif’ saved [42/42]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/rs-logo2.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8699 (8.5K) [image/gif]
+Saving to: ‘www.readscheme.org/rs-logo2.gif’
+
+     0K ........                                              100% 4.14M=0.002s
+
+2024-06-16 15:40:52 (4.14 MB/s) - ‘www.readscheme.org/rs-logo2.gif’ saved [8699/8699]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/partial-eval/index.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3797 (3.7K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/index.html’
+
+     0K ...                                                   100% 38.5M=0s
+
+2024-06-16 15:40:52 (38.5 MB/s) - ‘www.readscheme.org/partial-eval/index.html’ saved [3797/3797]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/modules/index.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 46603 (46K) [text/html]
+Saving to: ‘www.readscheme.org/modules/index.html’
+
+     0K .......... .......... .......... .......... .....     100%  358K=0.1s
+
+2024-06-16 15:40:52 (358 KB/s) - ‘www.readscheme.org/modules/index.html’ saved [46603/46603]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/xml-web/index.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23630 (23K) [text/html]
+Saving to: ‘www.readscheme.org/xml-web/index.html’
+
+     0K .......... .......... ...                             100%  530K=0.04s
+
+2024-06-16 15:40:52 (530 KB/s) - ‘www.readscheme.org/xml-web/index.html’ saved [23630/23630]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/partial-eval/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 964 [text/css]
+Saving to: ‘www.readscheme.org/partial-eval/basic.css’
+
+     0K                                                       100% 48.4M=0s
+
+2024-06-16 15:40:52 (48.4 MB/s) - ‘www.readscheme.org/partial-eval/basic.css’ saved [964/964]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/partial-eval/imgs/nav-logo.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1886 (1.8K) [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav-logo.gif’
+
+     0K .                                                     100% 58.0M=0s
+
+2024-06-16 15:40:52 (58.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav-logo.gif’ saved [1886/1886]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/partial-eval/imgs/dot_clear.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/dot_clear.gif’
+
+     0K                                                       100% 2.23M=0s
+
+2024-06-16 15:40:52 (2.23 MB/s) - ‘www.readscheme.org/partial-eval/imgs/dot_clear.gif’ saved [42/42]
+
+--2024-06-16 15:40:52--  http://www.readscheme.org/partial-eval/whats_new.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 130809 (128K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/whats_new.html’
+
+     0K .......... .......... .......... .......... .......... 39%  568K 0s
+    50K .......... .......... .......... .......... .......... 78%  388K 0s
+   100K .......... .......... .......                         100%  325K=0.3s
+
+2024-06-16 15:40:53 (423 KB/s) - ‘www.readscheme.org/partial-eval/whats_new.html’ saved [130809/130809]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/pe-impl.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7605 (7.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/pe-impl.html’
+
+     0K .......                                               100% 77.2M=0s
+
+2024-06-16 15:40:53 (77.2 MB/s) - ‘www.readscheme.org/partial-eval/pe-impl.html’ saved [7605/7605]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/pe-events.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4969 (4.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/pe-events.html’
+
+     0K ....                                                  100% 72.9M=0s
+
+2024-06-16 15:40:53 (72.9 MB/s) - ‘www.readscheme.org/partial-eval/pe-events.html’ saved [4969/4969]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/pe-journals.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4610 (4.5K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/pe-journals.html’
+
+     0K ....                                                  100%  105M=0s
+
+2024-06-16 15:40:53 (105 MB/s) - ‘www.readscheme.org/partial-eval/pe-journals.html’ saved [4610/4610]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/pe-books.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3469 (3.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/pe-books.html’
+
+     0K ...                                                   100% 71.9M=0s
+
+2024-06-16 15:40:53 (71.9 MB/s) - ‘www.readscheme.org/partial-eval/pe-books.html’ saved [3469/3469]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/survey.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10971 (11K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/survey.html’
+
+     0K ..........                                            100% 16.4M=0.001s
+
+2024-06-16 15:40:53 (16.4 MB/s) - ‘www.readscheme.org/partial-eval/survey.html’ saved [10971/10971]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/techniques.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 86156 (84K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/techniques.html’
+
+     0K .......... .......... .......... .......... .......... 59%  511K 0s
+    50K .......... .......... .......... ....                 100%  707K=0.1s
+
+2024-06-16 15:40:53 (576 KB/s) - ‘www.readscheme.org/partial-eval/techniques.html’ saved [86156/86156]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/lambda_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6943 (6.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/lambda_pe.html’
+
+     0K ......                                                100% 67.6M=0s
+
+2024-06-16 15:40:53 (67.6 MB/s) - ‘www.readscheme.org/partial-eval/lambda_pe.html’ saved [6943/6943]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/scheme_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12455 (12K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/scheme_pe.html’
+
+     0K .......... ..                                         100% 16.6M=0.001s
+
+2024-06-16 15:40:53 (16.6 MB/s) - ‘www.readscheme.org/partial-eval/scheme_pe.html’ saved [12455/12455]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/c_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12264 (12K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/c_pe.html’
+
+     0K .......... .                                          100% 16.4M=0.001s
+
+2024-06-16 15:40:53 (16.4 MB/s) - ‘www.readscheme.org/partial-eval/c_pe.html’ saved [12264/12264]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/java_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7824 (7.6K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/java_pe.html’
+
+     0K .......                                               100%  162M=0s
+
+2024-06-16 15:40:53 (162 MB/s) - ‘www.readscheme.org/partial-eval/java_pe.html’ saved [7824/7824]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/logic_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 34266 (33K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/logic_pe.html’
+
+     0K .......... .......... .......... ...                  100%  799K=0.04s
+
+2024-06-16 15:40:53 (799 KB/s) - ‘www.readscheme.org/partial-eval/logic_pe.html’ saved [34266/34266]
+
+--2024-06-16 15:40:53--  http://www.readscheme.org/partial-eval/appl_pe.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 40687 (40K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/appl_pe.html’
+
+     0K .......... .......... .......... .........            100%  772K=0.05s
+
+2024-06-16 15:40:54 (772 KB/s) - ‘www.readscheme.org/partial-eval/appl_pe.html’ saved [40687/40687]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/browse.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24757 (24K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/browse.html’
+
+     0K .......... .......... ....                            100%  525K=0.05s
+
+2024-06-16 15:40:54 (525 KB/s) - ‘www.readscheme.org/partial-eval/browse.html’ saved [24757/24757]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/modules/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 666 [text/css]
+Saving to: ‘www.readscheme.org/modules/basic.css’
+
+     0K                                                       100% 33.4M=0s
+
+2024-06-16 15:40:54 (33.4 MB/s) - ‘www.readscheme.org/modules/basic.css’ saved [666/666]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/modules/imgs/nav-logo.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2392 (2.3K) [image/gif]
+Saving to: ‘www.readscheme.org/modules/imgs/nav-logo.gif’
+
+     0K ..                                                    100% 23.8M=0s
+
+2024-06-16 15:40:54 (23.8 MB/s) - ‘www.readscheme.org/modules/imgs/nav-logo.gif’ saved [2392/2392]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/modules/imgs/dot_clear.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [image/gif]
+Saving to: ‘www.readscheme.org/modules/imgs/dot_clear.gif’
+
+     0K                                                       100% 2.00M=0s
+
+2024-06-16 15:40:54 (2.00 MB/s) - ‘www.readscheme.org/modules/imgs/dot_clear.gif’ saved [42/42]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/xml-web/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 544 [text/css]
+Saving to: ‘www.readscheme.org/xml-web/basic.css’
+
+     0K                                                       100% 9.98M=0s
+
+2024-06-16 15:40:54 (9.98 MB/s) - ‘www.readscheme.org/xml-web/basic.css’ saved [544/544]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/xml-web/imgs/nav-logo.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2392 (2.3K) [image/gif]
+Saving to: ‘www.readscheme.org/xml-web/imgs/nav-logo.gif’
+
+     0K ..                                                    100%  109M=0s
+
+2024-06-16 15:40:54 (109 MB/s) - ‘www.readscheme.org/xml-web/imgs/nav-logo.gif’ saved [2392/2392]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/xml-web/imgs/dot_clear.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [image/gif]
+Saving to: ‘www.readscheme.org/xml-web/imgs/dot_clear.gif’
+
+     0K                                                       100% 1.48M=0s
+
+2024-06-16 15:40:54 (1.48 MB/s) - ‘www.readscheme.org/xml-web/imgs/dot_clear.gif’ saved [42/42]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_mainlogo.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1974 (1.9K) [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_mainlogo.gif’
+
+     0K .                                                     100% 53.8M=0s
+
+2024-06-16 15:40:54 (53.8 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_mainlogo.gif’ saved [1974/1974]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_survey.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 638 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_survey.gif’
+
+     0K                                                       100% 32.0M=0s
+
+2024-06-16 15:40:54 (32.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_survey.gif’ saved [638/638]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_techniques.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 665 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_techniques.gif’
+
+     0K                                                       100% 33.4M=0s
+
+2024-06-16 15:40:54 (33.4 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_techniques.gif’ saved [665/665]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_lambda.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 590 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_lambda.gif’
+
+     0K                                                       100% 18.2M=0s
+
+2024-06-16 15:40:54 (18.2 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_lambda.gif’ saved [590/590]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_scheme.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 334 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_scheme.gif’
+
+     0K                                                       100% 12.3M=0s
+
+2024-06-16 15:40:54 (12.3 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_scheme.gif’ saved [334/334]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_c_imp.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 776 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_c_imp.gif’
+
+     0K                                                       100% 27.4M=0s
+
+2024-06-16 15:40:54 (27.4 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_c_imp.gif’ saved [776/776]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_java.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 694 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_java.gif’
+
+     0K                                                       100% 22.1M=0s
+
+2024-06-16 15:40:54 (22.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_java.gif’ saved [694/694]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_logic.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 805 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_logic.gif’
+
+     0K                                                       100% 27.4M=0s
+
+2024-06-16 15:40:54 (27.4 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_logic.gif’ saved [805/805]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_appl.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 472 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_appl.gif’
+
+     0K                                                       100% 25.0M=0s
+
+2024-06-16 15:40:54 (25.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_appl.gif’ saved [472/472]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/focus_nav_recent.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 654 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_recent.gif’
+
+     0K                                                       100% 20.8M=0s
+
+2024-06-16 15:40:54 (20.8 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_recent.gif’ saved [654/654]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/imgs/nav_browse.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 630 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_browse.gif’
+
+     0K                                                       100% 23.1M=0s
+
+2024-06-16 15:40:54 (23.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_browse.gif’ saved [630/630]
+
+--2024-06-16 15:40:54--  http://www.readscheme.org/partial-eval/search.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4509 (4.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/search.html’
+
+     0K ....                                                  100% 89.6M=0s
+
+2024-06-16 15:40:55 (89.6 MB/s) - ‘www.readscheme.org/partial-eval/search.html’ saved [4509/4509]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_search.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 338 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_search.gif’
+
+     0K                                                       100% 17.0M=0s
+
+2024-06-16 15:40:55 (17.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_search.gif’ saved [338/338]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_implementations.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 540 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_implementations.gif’
+
+     0K                                                       100% 16.1M=0s
+
+2024-06-16 15:40:55 (16.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_implementations.gif’ saved [540/540]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_events.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 433 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_events.gif’
+
+     0K                                                       100% 13.3M=0s
+
+2024-06-16 15:40:55 (13.3 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_events.gif’ saved [433/433]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_journals.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 404 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_journals.gif’
+
+     0K                                                       100% 14.3M=0s
+
+2024-06-16 15:40:55 (14.3 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_journals.gif’ saved [404/404]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_books.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_books.gif’
+
+     0K                                                       100% 16.5M=0s
+
+2024-06-16 15:40:55 (16.5 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_books.gif’ saved [328/328]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/nav_bibliography.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 475 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_bibliography.gif’
+
+     0K                                                       100% 23.8M=0s
+
+2024-06-16 15:40:55 (23.8 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_bibliography.gif’ saved [475/475]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/focus_nav_implementations.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_implementations.gif’
+
+     0K                                                       100% 29.0M=0s
+
+2024-06-16 15:40:55 (29.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_implementations.gif’ saved [578/578]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/imgs/focus_nav_events.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 471 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_events.gif’
+
+     0K                                                       100% 16.6M=0s
+
+2024-06-16 15:40:55 (16.6 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_events.gif’ saved [471/471]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm2004.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6557 (6.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm2004.html’
+
+     0K ......                                                100% 84.5M=0s
+
+2024-06-16 15:40:55 (84.5 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm2004.html’ saved [6557/6557]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm2003.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4374 (4.3K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm2003.html’
+
+     0K ....                                                  100% 85.1M=0s
+
+2024-06-16 15:40:55 (85.1 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm2003.html’ saved [4374/4374]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/asiapepm2002.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5271 (5.1K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/asiapepm2002.html’
+
+     0K .....                                                 100% 69.8M=0s
+
+2024-06-16 15:40:55 (69.8 MB/s) - ‘www.readscheme.org/partial-eval/events/asiapepm2002.html’ saved [5271/5271]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm2002.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4920 (4.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm2002.html’
+
+     0K ....                                                  100% 71.1M=0s
+
+2024-06-16 15:40:55 (71.1 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm2002.html’ saved [4920/4920]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm2000.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5130 (5.0K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm2000.html’
+
+     0K .....                                                 100% 80.2M=0s
+
+2024-06-16 15:40:55 (80.2 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm2000.html’ saved [5130/5130]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm1999.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6715 (6.6K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm1999.html’
+
+     0K ......                                                100%  133M=0s
+
+2024-06-16 15:40:55 (133 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm1999.html’ saved [6715/6715]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pe1998.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5526 (5.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pe1998.html’
+
+     0K .....                                                 100% 72.2M=0s
+
+2024-06-16 15:40:55 (72.2 MB/s) - ‘www.readscheme.org/partial-eval/events/pe1998.html’ saved [5526/5526]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm97.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5944 (5.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm97.html’
+
+     0K .....                                                 100%  111M=0s
+
+2024-06-16 15:40:55 (111 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm97.html’ saved [5944/5944]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/dagstuhl-pe96.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9099 (8.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/dagstuhl-pe96.html’
+
+     0K ........                                              100% 13.2M=0.001s
+
+2024-06-16 15:40:55 (13.2 MB/s) - ‘www.readscheme.org/partial-eval/events/dagstuhl-pe96.html’ saved [9099/9099]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm95.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6992 (6.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm95.html’
+
+     0K ......                                                100% 99.5M=0s
+
+2024-06-16 15:40:55 (99.5 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm95.html’ saved [6992/6992]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm94.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6127 (6.0K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm94.html’
+
+     0K .....                                                 100%  119M=0s
+
+2024-06-16 15:40:55 (119 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm94.html’ saved [6127/6127]
+
+--2024-06-16 15:40:55--  http://www.readscheme.org/partial-eval/events/pepm93.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6013 (5.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm93.html’
+
+     0K .....                                                 100%  106M=0s
+
+2024-06-16 15:40:56 (106 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm93.html’ saved [6013/6013]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/events/pepm92.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4080 (4.0K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm92.html’
+
+     0K ...                                                   100% 54.0M=0s
+
+2024-06-16 15:40:56 (54.0 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm92.html’ saved [4080/4080]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/events/pepm91.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7694 (7.5K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pepm91.html’
+
+     0K .......                                               100%  131M=0s
+
+2024-06-16 15:40:56 (131 MB/s) - ‘www.readscheme.org/partial-eval/events/pepm91.html’ saved [7694/7694]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/events/pemc1987.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5358 (5.2K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pemc1987.html’
+
+     0K .....                                                 100% 69.1M=0s
+
+2024-06-16 15:40:56 (69.1 MB/s) - ‘www.readscheme.org/partial-eval/events/pemc1987.html’ saved [5358/5358]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/focus_nav_journals.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 442 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_journals.gif’
+
+     0K                                                       100% 14.1M=0s
+
+2024-06-16 15:40:56 (14.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_journals.gif’ saved [442/442]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/hosc-2004.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2962 (2.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/hosc-2004.html’
+
+     0K ..                                                    100% 45.6M=0s
+
+2024-06-16 15:40:56 (45.6 MB/s) - ‘www.readscheme.org/partial-eval/journals/hosc-2004.html’ saved [2962/2962]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/hosc-2003.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2906 (2.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/hosc-2003.html’
+
+     0K ..                                                    100% 43.3M=0s
+
+2024-06-16 15:40:56 (43.3 MB/s) - ‘www.readscheme.org/partial-eval/journals/hosc-2003.html’ saved [2906/2906]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/hosc-pepm2000.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3034 (3.0K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/hosc-pepm2000.html’
+
+     0K ..                                                    100% 40.8M=0s
+
+2024-06-16 15:40:56 (40.8 MB/s) - ‘www.readscheme.org/partial-eval/journals/hosc-pepm2000.html’ saved [3034/3034]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/hosc-pepm99-pt2.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2826 (2.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/hosc-pepm99-pt2.html’
+
+     0K ..                                                    100% 38.0M=0s
+
+2024-06-16 15:40:56 (38.0 MB/s) - ‘www.readscheme.org/partial-eval/journals/hosc-pepm99-pt2.html’ saved [2826/2826]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/hosc-pepm99-pt1.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2951 (2.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/hosc-pepm99-pt1.html’
+
+     0K ..                                                    100% 37.5M=0s
+
+2024-06-16 15:40:56 (37.5 MB/s) - ‘www.readscheme.org/partial-eval/journals/hosc-pepm99-pt1.html’ saved [2951/2951]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/lasc-pepm94.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2875 (2.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/lasc-pepm94.html’
+
+     0K ..                                                    100% 66.9M=0s
+
+2024-06-16 15:40:56 (66.9 MB/s) - ‘www.readscheme.org/partial-eval/journals/lasc-pepm94.html’ saved [2875/2875]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/sope1998.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4950 (4.8K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/sope1998.html’
+
+     0K ....                                                  100% 68.4M=0s
+
+2024-06-16 15:40:56 (68.4 MB/s) - ‘www.readscheme.org/partial-eval/journals/sope1998.html’ saved [4950/4950]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/tcs2000.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3380 (3.3K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/tcs2000.html’
+
+     0K ...                                                   100% 41.9M=0s
+
+2024-06-16 15:40:56 (41.9 MB/s) - ‘www.readscheme.org/partial-eval/journals/tcs2000.html’ saved [3380/3380]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/ngc2001.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3110 (3.0K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/ngc2001.html’
+
+     0K ...                                                   100% 42.4M=0s
+
+2024-06-16 15:40:56 (42.4 MB/s) - ‘www.readscheme.org/partial-eval/journals/ngc2001.html’ saved [3110/3110]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/journals/ngc1988.html
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3958 (3.9K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/journals/ngc1988.html’
+
+     0K ...                                                   100% 80.3M=0s
+
+2024-06-16 15:40:56 (80.3 MB/s) - ‘www.readscheme.org/partial-eval/journals/ngc1988.html’ saved [3958/3958]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/focus_nav_books.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 374 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_books.gif’
+
+     0K                                                       100% 17.8M=0s
+
+2024-06-16 15:40:56 (17.8 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_books.gif’ saved [374/374]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/events/pe1998
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5526 (5.4K) [text/html]
+Saving to: ‘www.readscheme.org/partial-eval/events/pe1998’
+
+     0K .....                                                 100% 53.2M=0s
+
+2024-06-16 15:40:56 (53.2 MB/s) - ‘www.readscheme.org/partial-eval/events/pe1998’ saved [5526/5526]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/focus_nav_survey.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 705 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_survey.gif’
+
+     0K                                                       100% 25.9M=0s
+
+2024-06-16 15:40:56 (25.9 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_survey.gif’ saved [705/705]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/nav_recent.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 595 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/nav_recent.gif’
+
+     0K                                                       100% 16.7M=0s
+
+2024-06-16 15:40:56 (16.7 MB/s) - ‘www.readscheme.org/partial-eval/imgs/nav_recent.gif’ saved [595/595]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/focus_nav_techniques.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 734 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_techniques.gif’
+
+     0K                                                       100% 38.9M=0s
+
+2024-06-16 15:40:56 (38.9 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_techniques.gif’ saved [734/734]
+
+--2024-06-16 15:40:56--  http://www.readscheme.org/partial-eval/imgs/focus_nav_lambda.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 659 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_lambda.gif’
+
+     0K                                                       100% 22.4M=0s
+
+2024-06-16 15:40:57 (22.4 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_lambda.gif’ saved [659/659]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_scheme.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 373 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_scheme.gif’
+
+     0K                                                       100% 11.9M=0s
+
+2024-06-16 15:40:57 (11.9 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_scheme.gif’ saved [373/373]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_c_imp.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 843 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_c_imp.gif’
+
+     0K                                                       100% 35.0M=0s
+
+2024-06-16 15:40:57 (35.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_c_imp.gif’ saved [843/843]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_java.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 759 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_java.gif’
+
+     0K                                                       100% 24.1M=0s
+
+2024-06-16 15:40:57 (24.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_java.gif’ saved [759/759]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_logic.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 874 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_logic.gif’
+
+     0K                                                       100% 32.1M=0s
+
+2024-06-16 15:40:57 (32.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_logic.gif’ saved [874/874]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_appl.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 508 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_appl.gif’
+
+     0K                                                       100% 16.1M=0s
+
+2024-06-16 15:40:57 (16.1 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_appl.gif’ saved [508/508]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_browse.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 698 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_browse.gif’
+
+     0K                                                       100% 35.0M=0s
+
+2024-06-16 15:40:57 (35.0 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_browse.gif’ saved [698/698]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/imgs/focus_nav_search.gif
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 382 [image/gif]
+Saving to: ‘www.readscheme.org/partial-eval/imgs/focus_nav_search.gif’
+
+     0K                                                       100% 19.2M=0s
+
+2024-06-16 15:40:57 (19.2 MB/s) - ‘www.readscheme.org/partial-eval/imgs/focus_nav_search.gif’ saved [382/382]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/events/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 964 [text/css]
+Saving to: ‘www.readscheme.org/partial-eval/events/basic.css’
+
+     0K                                                       100% 31.7M=0s
+
+2024-06-16 15:40:57 (31.7 MB/s) - ‘www.readscheme.org/partial-eval/events/basic.css’ saved [964/964]
+
+--2024-06-16 15:40:57--  http://www.readscheme.org/partial-eval/journals/basic.css
+Reusing existing connection to www.readscheme.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 964 [text/css]
+Saving to: ‘www.readscheme.org/partial-eval/journals/basic.css’
+
+     0K                                                       100% 43.8M=0s
+
+2024-06-16 15:40:57 (43.8 MB/s) - ‘www.readscheme.org/partial-eval/journals/basic.css’ saved [964/964]
+
+FINISHED --2024-06-16 15:40:57--
+Total wall clock time: 5.4s
+Downloaded: 91 files, 622K in 0.8s (811 KB/s)
